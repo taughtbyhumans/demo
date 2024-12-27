@@ -1,8 +1,18 @@
 {
   "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
+    "appName": "CustomName",
     "jupyterlab": {
       "version": "4.2.6"
+    },
+    "collaborative": false,
+    "disabledExtensions": [
+      "@jupyterlab/filebrowser-extension"
+    ],
+    "settingsOverrides": {
+      "@jupyterlab/application-extension:shell": {
+        "mode": "single-document"
+      }
     }
   },
   "dependencies": {
