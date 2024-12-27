@@ -1,0 +1,13 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "defaultKernelName": "python",
+    "kernelspecs": {
+      "python": {
+        "name": "python",
+        "display_name": "Python (Pyodide)",
+        "language": "python"
+      }
+    }
+  }
+}
